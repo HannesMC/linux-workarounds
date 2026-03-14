@@ -4,8 +4,6 @@
 
 A collection of workarounds, fixes and howtos for Linux – focused on hardware compatibility, browser configuration and system stability.
 
-All documented solutions are tested on real hardware before being published.
-
 ---
 
 ## Structure
